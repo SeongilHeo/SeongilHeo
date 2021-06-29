@@ -43,7 +43,11 @@ App, Web, AI, Data, 보안, 게임 등 여러 팀으로 활동하고 있습니�
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SeongilHeo)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjddlf101" height="165">
 <!--
 **SeongilHeo/SeongilHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
