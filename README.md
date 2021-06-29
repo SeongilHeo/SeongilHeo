@@ -47,7 +47,16 @@ App, Web, AI, Data, 보안, 게임 등 여러 팀으로 활동하고 있습니�
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tjddlf101" height="165">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tjddlf101@gmail.com)
+
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=SeongilHeo" height="165">
+ -->
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjddlf101" height="165"> -->
 <!--
 **SeongilHeo/SeongilHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
