@@ -1,6 +1,11 @@
+<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
+
 # Seongil Heo
 Hi there! I am a student studying computer science.<br>
 Welcome to my Github!<br>
+
+## 경력
+
 
 ## 📫 How to reach me
 <a href="tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -11,6 +16,13 @@ Welcome to my Github!<br>
 <a href="https://www.youtube.com/channel/UCyRHMeS_RPlgAtaNYH8w3nA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 
+ 
+ ## 🔭 I’m currently working on ...
+ - AI study on Graph Drawing
+ - Blockchain reward system
+ - PnP society operation (www.hufspnp.com)
+
+## 참여했던 프로젝트
 
 ## Tech
 ### Language
@@ -52,41 +64,6 @@ Welcome to my Github!<br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><br>
  </p>
- 
- ## 🔭 I’m currently working on ...
- - AI study on Graph Drawing
- - Blockchain reward system
- - PnP society operation (www.hufspnp.com)
 
-
-
-
-[![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=SeongilHeo)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SeongilHeo)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SeongilHeo" height="165">
-
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=tjddlf101" height="165"> -->
-<!--
-**SeongilHeo/SeongilHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=SeongilHeo" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101" height="165">
