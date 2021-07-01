@@ -4,29 +4,34 @@
 Hi there! I am a student studying computer science.<br>
 Welcome to my Github!<br>
 
-## 경력
-
+## 🎓 Education
+- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, undergraduate
 
 ## 📫 How to reach me
 <a href="tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/heoseongil2546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100010551708684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/><br>
 <a href="https://www.linkedin.com/in/seongil-heo-5469aa1b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCyRHMeS_RPlgAtaNYH8w3nA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+
 
  ## 🔭 I’m currently working on ...
  - AI study on Graph Drawing
  - Blockchain reward system
  - PnP society operation (www.hufspnp.com)
 
-## 참여했던 프로젝트
+## 🔥 Experience
+- Hufs Missing Semester
+- Okestro Intern
+- PnP Socity Master
+- 
 
-## Tech
-<table width="100%">
+## 🛠 Tech
+<table width="100">
  <tr>
-  <td width="50%">
+  <td valign="top" width="50%">
    <h3> Language
    <ul>
     <li>Advanced</li>
@@ -51,7 +56,7 @@ Welcome to my Github!<br>
       </p>
    </ul>
   </td>
-  <td width="50%">
+  <td valign="top" width="50%">
    <h3>Stack</h3>
    <p>
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
@@ -71,7 +76,7 @@ Welcome to my Github!<br>
  </tr>
 </table>  
 
-## Github Stats  
+## 😁 Github Stats  
 <table>
  <tr>
   <td valign="top" width="50%">
