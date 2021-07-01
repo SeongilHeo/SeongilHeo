@@ -1,10 +1,16 @@
+# Seongil Heo
+Hi there! I am a student studying computer science.<br>
+Welcome to my Github!<br>
 
-<!-- <p align="center"><img src="top.png"></p> -->
-<h1 align='center'> Passion & Pionner</h1>
-한국외국어대학교 컴퓨터공학부 소속 학술학회 입니다.<br>
-App, Web, AI, Data, 보안, 게임 등 여러 팀으로 활동하고 있습니다.<br>
-1999년에 시작되어 현재 재학생 40명이 활동하고 있습니다.<br>
+## 📫 How to reach me
+<a href="tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/heoseongil2546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100010551708684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seongil-heo-5469aa1b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-컬러 코드?style=flat-square&logo=브랜드 이름&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCyRHMeS_RPlgAtaNYH8w3nA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
+### Conta
 # 이번 주 공지사항
 1. 현업 개발자의 실무 멘토링
 2. 재학생 멘토 멘티
