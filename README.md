@@ -29,7 +29,7 @@ Welcome to my Github!<br>
 - 
 
 ## 🛠 Tech
-<table width="100">
+<table width="100%">
  <tr>
   <td valign="top" width="50%">
    <h3> Language
@@ -77,7 +77,7 @@ Welcome to my Github!<br>
 </table>  
 
 ## 😁 Github Stats  
-<table>
+<table width="100%">
  <tr>
   <td valign="top" width="50%">
    <img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&hide_border=true" height="165">
