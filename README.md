@@ -12,7 +12,7 @@ Welcome to my Github!<br>
 <a href="https://www.instagram.com/heoseongil2546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100010551708684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/seongil-heo-5469aa1b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-컬러 코드?style=flat-square&logo=브랜드 이름&logoColor=white"/></a>
+<a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCyRHMeS_RPlgAtaNYH8w3nA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 
