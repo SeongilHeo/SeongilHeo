@@ -54,8 +54,10 @@ Welcome to my Github!<br>
  </p>
  
  ## 🔭 I’m currently working on ...
+ - AI study on Graph Drawing
+ - Blockchain reward system
+ - PnP society operation (www.hufspnp.com)
 
- ## 🔭 I’m currently working on ...
 
 
 
