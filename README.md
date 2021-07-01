@@ -9,7 +9,7 @@ Welcome to my Github!<br>
 <a href="https://www.linkedin.com/in/seongil-heo-5469aa1b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://heo-seongil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-컬러 코드?style=flat-square&logo=브랜드 이름&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCyRHMeS_RPlgAtaNYH8w3nA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="tjddlf101" target="_blank"><img src="https://img.shields.io/badge/KakaoTalK-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 
 
 ## Tech
