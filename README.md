@@ -29,7 +29,7 @@ Welcome to my Github!<br>
 - 
 
 ## 🛠 Tech
-<table width="100%">
+<table width="100%" bordercolor="blue">
  <tr>
   <td valign="top" width="50%">
    <h3> Language
