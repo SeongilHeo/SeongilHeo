@@ -28,11 +28,12 @@ Welcome to my Github!<br>
 - PnP Socity Master
 - 
 
-## 🛠 Tech
-
-<div>
- <div class="pull-left>
-    <h3> Language</h3>
+## 🛠 Skills
+<center>
+ <table width="100%">
+ <tr width="100%">
+  <td valign="top" width="50%">
+    <h3>Language</h3>
     <ul>
      <li>Advanced</li>
       <p>
@@ -43,20 +44,21 @@ Welcome to my Github!<br>
        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
       </p>
      <li>Intermediate</li>
-       <p>
+      <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-       </p>
-      <li>Beginning</li>
-       <p>
+      </p>
+     <li>Beginning</li>
+      <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-       </p>
+      </p>
     </ul>
- </div>
- <div class="pull-right">
+    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
+  </td>
+  <td valign="top" width="50%">
     <h3>Stack</h3>
     <p>
      <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
@@ -72,20 +74,20 @@ Welcome to my Github!<br>
      <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><br>
     </p>
-                                                                                                          </div>
-                                                                                                         
-</div>                                                                                  
-                                                                                                            
+    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
+  </td></tr></table>
+<center>  
+ 
 ## 😁 Github Stats  
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&hide_border=true" height="165">
+   <img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&hide_border=true" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongilHeo&hide_border=true&layout=compact" align="left"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongilHeo&hide_border=true&layout=compact" width="400">
   </td>
  </tr>
 </table>  
 
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101">
+<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101"></p>
