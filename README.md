@@ -8,7 +8,7 @@ I am a student studying computer science.<br>
 - Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, undergraduate
 
 ## 📫 How to reach me
-<a href="tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a mailto="tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/heoseongil2546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100010551708684" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/><br>
