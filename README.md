@@ -23,9 +23,9 @@ I am a student studying computer science.<br>
  - PnP society operation (www.hufspnp.com)
 
 ## 🔥 Experience
-- Hufs Missing Semester
 - Okestro Intern
 - PnP Socity Master
+- Hufs Missing Semester
 - 
 
 ## 🛠 Skills
