@@ -19,8 +19,8 @@ I am a student studying computer science.<br>
 
  ## 🔭 I’m currently working on ...
  - AI study on Graph Drawing
- - Blockchain reward system
- - PnP society operation (www.hufspnp.com)
+ - Blockchain reward system Project
+ - Intramural Computer Science academy conference PnP society operation (www.hufspnp.com)
 
 ## 🔥 Experience
 - Undergraduate research student [20.04~]
