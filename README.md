@@ -23,10 +23,19 @@ I am a student studying computer science.<br>
  - PnP society operation (www.hufspnp.com)
 
 ## 🔥 Experience
-- Okestro Intern
-- PnP Socity Master
-- Hufs Missing Semester
-- 
+- Undergraduate research student [20.04~]
+- President of the academic conference "PNP" [20.01~]
+- 2021 1st Semester Data-mining Class Grader [21.03~21.06]
+- Python Programming Education Teaching Assistant [20.03~21.06]
+- Hufs Missing Semester lecturer [21.01~21.02]
+- University Freshman Mentoring Program Mentor [20.09~20.12]
+- 2020 2nd Semester University Algorithm Teaching Assistant [20.09~20.12]
+- The 2nd Hankuk University of Foreign Studies Coding Festival Executive Team [20.09~20.11]
+- Okestro Co., Ltd Intern [20.07~20.08]
+- STEM&Software Contest(on-campus academic festival) [19.06~19.11]
+
+## 🏆 Awards
+- Yongin City Startup Contest - Korea Business Incubation Association President's Award
 
 ## 🛠 Skills
 <center>
