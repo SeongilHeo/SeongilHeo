@@ -24,7 +24,7 @@ I am a student studying computer science.<br>
 
 ## 🔥 Experience
 - Undergraduate research student [20.04~]
-- President of the academic conference "PNP" [20.01~]
+- Leader of intramural Computer Science academy conference PnP [20.01~]
 - 2021 1st Semester Data-mining Class Grader [21.03~21.06]
 - Python Programming Education Teaching Assistant [20.03~21.06]
 - Hufs Missing Semester lecturer [21.01~21.02]
