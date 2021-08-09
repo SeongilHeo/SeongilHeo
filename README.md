@@ -27,6 +27,7 @@ I am a student studying computer science.<br>
 - Leader of intramural Computer Science academy conference PnP [20.01~]
 - 2021 1st Semester Data-mining Class Grader [21.03~21.06]
 - Python Programming Education Teaching Assistant [20.03~21.06]
+- Developed Changmu Arts Center website(https://changmuartcenter.com) [21.02~21.04]
 - Hufs Missing Semester lecturer [21.01~21.02]
 - University Freshman Mentoring Program Mentor [20.09~20.12]
 - 2020 2nd Semester University Algorithm Teaching Assistant [20.09~20.12]
