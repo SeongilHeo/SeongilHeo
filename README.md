@@ -2,7 +2,7 @@
 
 # Seongil Heo
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am a student studying computer Engineering.<br>
 
 ## 🎓 Education
 - Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, undergraduate
@@ -18,21 +18,21 @@ I am a student studying computer science.<br>
 
 
  ## 🔭 I’m currently working on ...
- - AI study on Graph Drawing
- - Blockchain reward system Project
- - Intramural Computer Science academy conference PnP society operation (www.hufspnp.com)
+ - Research on Off-road Autonomous vehicle [22.04~]
 
 ## 🔥 Experience
-- Undergraduate research student [20.04~]
-- Leader of intramural Computer Science academy conference PnP [20.01~]
+- Blockchain reward system Project [21.05~22.03]
 - 2021 1st Semester Data-mining Class Grader [21.03~21.06]
-- Python Programming Education Teaching Assistant [20.03~21.06]
+- Research on Storyline graph drawing[21.03~22.02]
 - Developed alone Changmu Arts Center website(https://changmuartcenter.com) [21.02~21.04]
 - Hufs Missing Semester lecturer [21.01~21.02]
 - University Freshman Mentoring Program Mentor [20.09~20.12]
 - 2020 2nd Semester University Algorithm Teaching Assistant [20.09~20.12]
 - The 2nd Hankuk University of Foreign Studies Coding Festival Executive Team [20.09~20.11]
 - Okestro Co., Ltd Intern [20.07~20.08]
+- Undergraduate research student [20.04~21.03]
+- Python Programming Education Teaching Assistant [20.03~21.06]
+- Leader of intramural Computer Science academy conference PnP [20.01~21.12]
 - STEM&Software Contest(on-campus academic festival) [19.06~19.11]
 
 ## 🏆 Awards
