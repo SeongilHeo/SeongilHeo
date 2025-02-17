@@ -2,11 +2,11 @@
 
 # Seongil Heo
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
+I am a student majoring computer science.<br>
 
 ## 🎓 Education
 - The University of Utah, Computer Science, Master.
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, Undergraduate.
+- Hankuk University of Foreign Studies, Computer and Electronic Systems Engineering, Undergraduate.
 
 ## 📫 How to reach me
 <a href="mailto:tjddlf101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
