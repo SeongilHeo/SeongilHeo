@@ -1,4 +1,3 @@
-<img align='right' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongilHeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
 
 # Seongil Heo
 Hi there! Welcome to my Github!<br>
@@ -89,5 +88,3 @@ I am a student majoring computer science.<br>
   </td>
  </tr>
 </table>  
-
-<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101"></p>
