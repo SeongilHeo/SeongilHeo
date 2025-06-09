@@ -17,15 +17,3 @@ I am a student majoring computer science.<br>
 
  ## 🔭 I’m currently working on ...
  - Research on Multi-Agent Robot [24.08~]
-
-## 😁 Github Stats  
-<table width="100%">
- <tr>
-  <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&hide_border=true" width="400">
-  </td>
-  <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongilHeo&hide_border=true&layout=compact" width="400">
-  </td>
- </tr>
-</table>  
